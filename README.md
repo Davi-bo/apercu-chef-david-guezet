@@ -1,2 +1,3 @@
-# apercu-chef-david-guezet
-Aperçu public du site de David Guezet — copie distinte du site actuel
+# Aperçu public — David Guezet
+
+Copie de prévisualisation distincte du site actuel. Photos, prestations, histoire, tarifs et projet La Part du Chef avec démonstration vidéo.
